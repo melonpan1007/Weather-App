@@ -8,7 +8,7 @@ Weather Information: Upon submitting the city name, the application fetches the 
 Error Handling: The application handles errors gracefully and displays appropriate error messages if there are any issues with fetching the weather data
 <br><br>
 # Technologies Used
-HTML: Used for the structure of the web page.<br>
-CSS: Used for styling the web page and making it visually appealing.<br>
-JavaScript: Used for fetching weather data from the OpenWeatherMap API and dynamically updating the web page content.<br>
-OpenWeatherMap API: Used to retrieve current weather data for the specified city.
+HTML: Used for the structure of the web page.<br><br>
+CSS: Used for styling the web page and making it visually appealing.<br><br>
+JavaScript: Used for fetching weather data from the OpenWeatherMap API and dynamically updating the web page content.<br><br>
+OpenWeatherMap API: Used to retrieve current weather data for the specified city.<br>
