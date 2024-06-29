@@ -12,3 +12,7 @@ HTML: Used for the structure of the web page.<br><br>
 CSS: Used for styling the web page and making it visually appealing.<br><br>
 JavaScript: Used for fetching weather data from the OpenWeatherMap API and dynamically updating the web page content.<br><br>
 OpenWeatherMap API: Used to retrieve current weather data for the specified city.<br>
+
+## Preview
+
+![AWeatherApp Preview](preview.png)
